@@ -1,0 +1,38 @@
+/*
+  white: #FFFFFF
+  background: #cacab0
+  red accent 1: #bd433a
+  blue accent 2: #386eac
+  dark blue accent 3: #1e3e65
+*/
+
+body {
+  background-color: #cacab0;
+}
+
+h1, h2 {
+  color: #386eac;
+}
+
+a{
+  color:  #bd433a;
+  font-style: bold;
+}
+
+a:hover {
+  color: #386eac;
+}
+
+th, td {
+  border: #1e3e65 solid 3px;
+  padding: 8px;
+}
+
+table {
+  border-collapse: collapse;
+ 
+}
+
+p, li, table{
+  font-size: 1.2em;
+}
